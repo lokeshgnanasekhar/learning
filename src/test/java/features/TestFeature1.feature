@@ -15,7 +15,7 @@ Feature: This is My First Feature
       |abc@gmail.com|password123|
     And   I click submit
 
-  @regression @so
+  @regression
   Scenario Outline: This is My Third Scenario
 
     And   I Click on Login button
